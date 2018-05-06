@@ -3,6 +3,7 @@
 #include <string.h>
 
 #define MAX_CHILD 26
+
 typedef struct tree
 {
 	int count;
